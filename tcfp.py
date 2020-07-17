@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/bin/python3
 # -*- coding: UTF-8 -*-
 #
 # Thunderbolt 3 Host Controller Firmware Patcher (tcfp)
